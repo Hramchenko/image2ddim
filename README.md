@@ -6,8 +6,7 @@ This repo contains PyTorch implementation of DDIM inversion algorithm from [Diff
 
 Based on [latent-diffusion](https://github.com/CompVis/latent-diffusion) models. 
 
-##Usage
-
+## Usage
 Install dependencies.
 
 Download pretrained `latent-diffusion` weights with `download_models.sh` script.
