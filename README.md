@@ -1,4 +1,4 @@
-# Image starting noise reconstruction for Deep Denoising Implicit Models(DDIMs)
+# Image starting noise reconstruction for Denoising Diffusion Implicit Models(DDIMs)
 
 ![Semantic Image Interpolation](./images/result.png)
 
